@@ -1,2 +1,2 @@
-# teste.html
+# teste
 Isso aqui é um teste
